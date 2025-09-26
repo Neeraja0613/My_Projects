@@ -1,0 +1,21 @@
+Title,Total Quantity,AvailableQuantity,MinimumThreshold,Last Updated,Item Type,Path
+Rice,100 kg,15,20,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Dal,50 kg,25,15,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Oil,30 litre,5,10,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Salt,10 kg,7,5,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Vegetables,40 kg,18,10,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Wheat Flour,80 kg,22,30,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Sugar,25 kg,12,10,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Milk,60 litre,40,30,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Butter,10 kg,3,5,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Tea Leaves,5 kg,2,3,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Spices,8 kg,4,5,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Biscuits,50 packs,20,15,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Fruits,35 kg,10,20,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Onions,45 kg,12,15,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Potatoes,60 kg,8,10,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Tomatoes,30 kg,6,10,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Green Peas,25 kg,13,10,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Garlic,5 kg,3,2,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Ginger,4 kg,1,2,45860,Item,sites/DR_7.0_IShip/Lists/Food_items
+Chillies,6 kg,4,3,45860,Item,sites/DR_7.0_IShip/Lists/Food_items

@@ -1,0 +1,31 @@
+Title,BookID,Author,Subject,Status,AvailableBooks,BooksNeeded,Item Type,Path
+Concepts of Physics,B000,H.C. Verma,Physics,Issued,4,2,Item,sites/DR_7.0_IShip/Lists/Book_details
+NCERT Biology Class 12,B002,NCERT,Biology,Issued,3,1,Item,sites/DR_7.0_IShip/Lists/Book_details
+Advanced Mathematics,B003,R.D. Sharma,Math,Available,5,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+English Grammar and Composition,B004,Wren & Martin,English,Available,2,1,Item,sites/DR_7.0_IShip/Lists/Book_details
+Modern History of India,B005,Bipan Chandra,History,Issued,1,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+Fundamentals of Computer,B006,P.K. Sinha,Computer,Available,3,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+Science Lab Manual,B007,Laxmi Publications,Science,Available,2,1,Item,sites/DR_7.0_IShip/Lists/Book_details
+Hindi Sahitya Sangrah,B008,Rajeev Sharma,Hindi,Issued,1,1,Item,sites/DR_7.0_IShip/Lists/Book_details
+Geography Through Maps,B009,Kullar,Geography,Available,2,2,Item,sites/DR_7.0_IShip/Lists/Book_details
+Chemistry Principles & Applications,B010,O.P. Tandon,Chemistry,Available,4,3,Item,sites/DR_7.0_IShip/Lists/Book_details
+Physics for Class 11,B011,Pradeep,Physics,Available,4,4,Item,sites/DR_7.0_IShip/Lists/Book_details
+Inorganic Chemistry,B012,J.D. Lee,Chemistry,Issued,5,2,Item,sites/DR_7.0_IShip/Lists/Book_details
+Trigonometry Made Easy,B013,S.L. Loney,Math,Available,2,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+Word Power Made Easy,B014,Norman Lewis,English,Available,1,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+Indian Polity,B015,M. Laxmikanth,Civics,Issued,1,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+Organic Chemistry,B016,Morrison & Boyd,Chemistry,Available,3,1,Item,sites/DR_7.0_IShip/Lists/Book_details
+NCERT Physics Class 12,B017,NCERT,Physics,Issued,4,2,Item,sites/DR_7.0_IShip/Lists/Book_details
+Computer Applications Class 10,B018,Sumita Arora,Computer,Available,2,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+Environmental Studies,B019,K. S. Randhawa,Science,Available,1,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+India’s Struggle for Independence,B020,Bipan Chandra,History,Issued,1,1,Item,sites/DR_7.0_IShip/Lists/Book_details
+High School English Grammar,B021,Wren & Martin,English,Issued,2,4,Item,sites/DR_7.0_IShip/Lists/Book_details
+Advanced Problems in Mathematics,B022,Vikas Gupta,Math,Available,4,2,Item,sites/DR_7.0_IShip/Lists/Book_details
+Science Question Bank Class 9,B023,Oswal Publishers,Science,Available,3,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+Fundamentals of Accounting,B024,T.S. Grewal,Commerce,Issued,1,1,Item,sites/DR_7.0_IShip/Lists/Book_details
+A Brief History of Modern India,B025,Spectrum,History,Available,1,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+NCERT Geography Class 11,B026,NCERT,Geography,Issued,4,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+An Introduction to Sociology,B027,C.N. Shankar Rao,Sociology,Available,2,1,Item,sites/DR_7.0_IShip/Lists/Book_details
+Hindi Vyakaran,B028,Dr. Vashishth,Hindi,Available,1,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+Macroeconomics,B029,Dornbusch & Fischer,Economics,Issued,1,0,Item,sites/DR_7.0_IShip/Lists/Book_details
+Objective Biology,B030,Trueman,Biology,Available,4,1,Item,sites/DR_7.0_IShip/Lists/Book_details
