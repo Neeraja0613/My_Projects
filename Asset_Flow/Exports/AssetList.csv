@@ -1,0 +1,18 @@
+Asset Name,Asset ID,Assigned To,Assigned Date,Return Due Date,Status,Returned,Title,Item Type,Path
+laptop,1234,23P31A4430,05-06-2025,07-06-2025,Returned,TRUE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+Tab,5678,23P31A4430,05-06-2025,07-06-2025,Returned,TRUE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+phone,1357,23P31A4430,02-06-2025,04-06-2025,Returned,TRUE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+tv,2468,23P31A4430,02-06-2025,04-06-2025,Returned,TRUE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+computer,9009,23P31A4430,,,Available,FALSE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+laptop,0621,23P31A4430,02-06-2025,05-06-2025,Returned,TRUE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+Tablet,4790,23P31A4430,06-06-2025,09-06-2025,Returned,TRUE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+Mobile,2578,23P31A4430,,,Available,FALSE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+Car,2794,23P31A4430,02-06-2025,07-06-2025,Returned,TRUE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+laptop,5678,23MH1A4268,08-06-2025,08-06-2025,Returned,TRUE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+phone,2345,23P31A42G3,08-06-2025,08-06-2025,Returned,TRUE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+tablet,1094,24A95A6108,08-06-2025,09-06-2025,Returned,TRUE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+laptop,4569,24A95A6108,09-06-2025,10-06-2025,Returned,TRUE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+tablet,4630,23P31A4434,20-09-2025,25-09-2025,Assigned,FALSE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+laptop,2097,23P31A4444,25-09-2025,27-09-2025,Assigned,FALSE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+Mobile,4639,23P31A4416,17-09-2025,23-09-2025,Returned,TRUE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
+Pen drive,1306,23P31A4430,26-09-2025,28-09-2025,Assigned,FALSE,,Item,sites/DR_7.0_Data_Specialist_PROJECT/Lists/Company Assets
